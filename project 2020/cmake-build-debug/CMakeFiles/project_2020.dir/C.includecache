@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/faria/CLionProjects/project 2020/arvore.h
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+errno.h
+-
+limits.h
+-
+
+/cygdrive/c/Users/faria/CLionProjects/project 2020/ficheiro.c
+arvore.h
+/cygdrive/c/Users/faria/CLionProjects/project 2020/arvore.h
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/project_2020.dir/main.c.o CMakeFiles/project_2020.dir/arvore.c.o CMakeFiles/project_2020.dir/ficheiro.c.o  -o project_2020.exe -Wl,--out-implib,libproject_2020.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
